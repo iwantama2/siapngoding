@@ -1,0 +1,37 @@
+{
+  "name": "Siapngoding",
+  "short_name": "siapngoding",
+  "start_url": "https://siapngoding.my.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fdd929",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-zMyc7OXCvgY/YQ0tsLYYjPI/AAAAAAAACMU/eycZKSKnOqc5USljxg-qQsXqwElhW9eLACLcBGAsYHQ/s320/apple-touch-icon.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-zMyc7OXCvgY/YQ0tsLYYjPI/AAAAAAAACMU/eycZKSKnOqc5USljxg-qQsXqwElhW9eLACLcBGAsYHQ/s320/apple-touch-icon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-zMyc7OXCvgY/YQ0tsLYYjPI/AAAAAAAACMU/eycZKSKnOqc5USljxg-qQsXqwElhW9eLACLcBGAsYHQ/s320/apple-touch-icon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-72CXRotBa88/YQ0t4xF1NdI/AAAAAAAACMY/6JiF80T0s0c4sxVSV1rFk3jtNfR72Aw3QCLcBGAsYHQ/s320/favicon-16x16.png",
+    "sizes": "16x16",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Kd_68sbiuc4/YQ0uHB_N_uI/AAAAAAAACMg/nurZilVEslcVn8GhKXA1bgrxXr6A6gaCQCLcBGAsYHQ/s320/favicon-32x32.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-O3-gV2fF69A/YQ0sDkQxrSI/AAAAAAAACME/UE36sV-FFPcNakrf58ZGZOLVjAB4lno2QCLcBGAsYHQ/s0/android-chrome-192x192.png"",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-CdyZBUusLN8/YQ0s_pfqcBI/AAAAAAAACMM/gpDWmbbcY_gN-aWCYQ7EZ0q3YBxFgqicwCLcBGAsYHQ/s512/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
